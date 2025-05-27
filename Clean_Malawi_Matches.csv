@@ -1,0 +1,74 @@
+Date,Opponent,Team Score,Opponent Score,Result,Venue,Competition,Goal Difference,Is Win,Is Draw,Is Loss,Is Home,Is Away,Is Neutral
+1957-01-01,Northern Rhodesia,0.0,5.0,Loss,Neutral,Friendly (First International),-5.0,0,0,1,False,False,True
+1962-01-01,Ghana,0.0,12.0,Loss,Neutral,Friendly,-12.0,0,0,1,False,False,True
+1968-01-01,Botswana,8.0,1.0,Win,Neutral,Friendly,7.0,1,0,0,False,False,True
+2000-01-01,South Africa,0.0,3.0,Loss,Away,World Cup Qualifier,-3.0,0,0,1,False,True,False
+2000-01-01,Zambia,1.0,1.0,Draw,Home,Friendly,0.0,0,1,0,True,False,False
+2000-01-01,Algeria,0.0,3.0,Loss,Away,AFCON 2010 Group Stage,-3.0,0,0,1,False,True,False
+2000-01-01,Angola,0.0,2.0,Loss,Away,AFCON 2010 Group Stage,-2.0,0,0,1,False,True,False
+2000-01-01,Mali,1.0,3.0,Loss,Away,AFCON 2010 Group Stage,-2.0,0,0,1,False,True,False
+2000-01-01,Tunisia,2.0,2.0,Draw,Away,AFCON Qualifier,0.0,0,1,0,False,True,False
+2000-01-01,Chad,6.0,2.0,Win,Home,AFCON Qualifier,4.0,1,0,0,True,False,False
+2000-01-01,Rwanda,2.0,1.0,Win,Home,Friendly,1.0,1,0,0,True,False,False
+2000-01-01,Kenya,0.0,0.0,Draw,Away,Friendly,0.0,0,1,0,False,True,False
+2000-01-01,Kenya,0.0,0.0,Draw,Away,World Cup Qualifier,0.0,0,1,0,False,True,False
+2000-01-01,Nigeria,0.0,2.0,Loss,Home,World Cup Qualifier,-2.0,0,0,1,True,False,False
+2000-01-01,Ghana,0.0,1.0,Loss,Away,AFCON Qualifier,-1.0,0,0,1,False,True,False
+2000-01-01,Ghana,0.0,1.0,Loss,Home,AFCON Qualifier,-1.0,0,0,1,True,False,False
+2000-01-01,Namibia,0.0,0.0,Draw,Away,World Cup Qualifier,0.0,0,1,0,False,True,False
+2000-01-01,Kenya,2.0,2.0,Draw,Home,World Cup Qualifier,0.0,0,1,0,True,False,False
+2000-01-01,Nigeria,0.0,2.0,Loss,Away,World Cup Qualifier,-2.0,0,0,1,False,True,False
+2000-01-01,Egypt,1.0,2.0,Loss,Away,AFCON Qualifier,-1.0,0,0,1,False,True,False
+2000-01-01,Eswatini,2.0,2.0,Draw,Home,AFCON Qualifier,0.0,0,1,0,True,False,False
+2000-01-01,Ghana,0.0,0.0,Draw,Away,World Cup Qualifier,0.0,0,1,0,False,True,False
+2000-01-01,Comoros,1.0,0.0,Win,Home,AFCON Qualifier,1.0,1,0,0,True,False,False
+2000-01-01,Morocco,0.0,3.0,Loss,Away,AFCON Qualifier,-3.0,0,0,1,False,True,False
+2000-01-01,Cameroon,0.0,0.0,Draw,Home,AFCON Qualifier,0.0,0,1,0,True,False,False
+2000-01-01,Burkina Faso,1.0,3.0,Loss,Away,AFCON Qualifier,-2.0,0,0,1,False,True,False
+2000-01-01,Burkina Faso,0.0,0.0,Draw,Home,AFCON Qualifier,0.0,0,1,0,True,False,False
+2000-01-01,Ethiopia,0.0,4.0,Loss,Away,Friendly,-4.0,0,0,1,False,True,False
+2000-01-01,South Sudan,1.0,0.0,Win,Away,AFCON Qualifier,1.0,1,0,0,False,True,False
+2000-01-01,Uganda,1.0,0.0,Win,Home,AFCON Qualifier (Qualified),1.0,1,0,0,True,False,False
+2000-01-01,Tanzania,0.0,2.0,Loss,Away,Friendly,-2.0,0,0,1,False,True,False
+2000-01-01,Zimbabwe,2.0,2.0,Draw,Home,COSAFA Cup,0.0,0,1,0,True,False,False
+2000-01-01,Mozambique,0.0,2.0,Loss,Away,COSAFA Cup,-2.0,0,0,1,False,True,False
+2000-01-01,Namibia,1.0,1.0,Draw,Home,COSAFA Cup,0.0,0,1,0,True,False,False
+2000-01-01,Senegal,1.0,2.0,Loss,Away,COSAFA Cup,-1.0,0,0,1,False,True,False
+2000-01-01,Cameroon,0.0,2.0,Loss,Away,World Cup Qualifier,-2.0,0,0,1,False,True,False
+2000-01-01,Mozambique,1.0,0.0,Win,Home,World Cup Qualifier,1.0,1,0,0,True,False,False
+2000-01-01,Cote d'Ivoire,0.0,3.0,Loss,Home,World Cup Qualifier,-3.0,0,0,1,True,False,False
+2000-01-01,Cote d'Ivoire,1.0,2.0,Loss,Away,World Cup Qualifier,-1.0,0,0,1,False,True,False
+2000-01-01,Cameroon,0.0,4.0,Loss,Home,World Cup Qualifier,-4.0,0,0,1,True,False,False
+2000-01-01,Mozambique,0.0,1.0,Loss,Away,World Cup Qualifier,-1.0,0,0,1,False,True,False
+2000-01-01,Comoros,1.0,0.0,Win,Away,Friendly,1.0,1,0,0,False,True,False
+2000-01-01,Guinea,0.0,1.0,Loss,Away,AFCON 2021 Group Stage,-1.0,0,0,1,False,True,False
+2000-01-01,Zimbabwe,2.0,1.0,Win,Home,AFCON 2021 Group Stage,1.0,1,0,0,True,False,False
+2000-01-01,Senegal,0.0,0.0,Draw,Home,AFCON 2021 Group Stage,0.0,0,1,0,True,False,False
+2000-01-01,Morocco,1.0,2.0,Loss,Away,AFCON 2021 Round of 16,-1.0,0,0,1,False,True,False
+2000-01-01,Ethiopia,2.0,1.0,Win,Home,AFCON Qualifier,1.0,1,0,0,True,False,False
+2000-01-01,Guinea,0.0,1.0,Loss,Away,AFCON Qualifier,-1.0,0,0,1,False,True,False
+2000-01-01,Lesotho,1.0,2.0,Loss,Away,COSAFA Cup,-1.0,0,0,1,False,True,False
+2000-01-01,Eswatini,1.0,1.0,Draw,Home,COSAFA Cup,0.0,0,1,0,True,False,False
+2000-01-01,Mauritius,2.0,0.0,Win,Away,COSAFA Cup,2.0,1,0,0,False,True,False
+2000-01-01,Mozambique,1.0,1.0,Draw,Home,CHAN Qualifier,0.0,0,1,0,True,False,False
+2000-01-01,Mozambique,0.0,0.0,Draw,Away,CHAN Qualifier,0.0,0,1,0,False,True,False
+2000-01-01,Lesotho,1.0,1.0,Draw,Home,Friendly,0.0,0,1,0,True,False,False
+2000-01-01,Bangladesh,1.0,1.0,Draw,Away,Friendly,0.0,0,1,0,False,True,False
+2000-01-01,Egypt,0.0,2.0,Loss,Away,AFCON Qualifier,-2.0,0,0,1,False,True,False
+2000-01-01,Egypt,0.0,4.0,Loss,Home,AFCON Qualifier,-4.0,0,0,1,True,False,False
+2000-01-01,Mozambique,1.0,1.0,Draw,Away,Four Nations Tournament,0.0,0,1,0,False,True,False
+2000-01-01,Ethiopia,0.0,0.0,Draw,Home,AFCON Qualifier,0.0,0,1,0,True,False,False
+2000-01-01,Guinea,2.0,2.0,Draw,Home,AFCON Qualifier,0.0,0,1,0,True,False,False
+2000-01-01,Liberia,0.0,1.0,Loss,Away,World Cup Qualifier,-1.0,0,0,1,False,True,False
+2000-01-01,Tunisia,1.0,0.0,Win,Home,World Cup Qualifier,1.0,1,0,0,True,False,False
+2000-01-01,Senegal,0.0,1.0,Loss,Away,Friendly,-1.0,0,0,1,False,True,False
+2000-01-01,Kenya,0.0,4.0,Loss,Home,Four Nations Tournament,-4.0,0,0,1,True,False,False
+2000-01-01,Sao Tome,3.0,1.0,Win,Home,World Cup Qualifier,2.0,1,0,0,True,False,False
+2000-01-01,Eq. Guinea,0.0,1.0,Loss,Away,World Cup Qualifier,-1.0,0,0,1,False,True,False
+2000-01-01,Burkina Faso,3.0,0.0,Win,Home,AFCON 2025 Qualifier,3.0,1,0,0,True,False,False
+2000-01-01,Senegal,0.0,4.0,Loss,Away,AFCON 2025 Qualifier,-4.0,0,0,1,False,True,False
+2000-01-01,Burundi,0.0,0.0,Draw,Home,AFCON 2025 Qualifier,0.0,0,1,0,True,False,False
+2000-01-01,Burkina Faso,0.0,1.0,Loss,Away,AFCON 2025 Qualifier,-1.0,0,0,1,False,True,False
+2000-01-01,Comoros,2.0,0.0,Win,Away,Friendly,2.0,1,0,0,False,True,False
+2000-01-01,Namibia,0.0,1.0,Loss,Away,World Cup Qualifier,-1.0,0,0,1,False,True,False
+2000-01-01,Tunisia,,,TBD,Away,World Cup Qualifier,,0,0,0,False,True,False
