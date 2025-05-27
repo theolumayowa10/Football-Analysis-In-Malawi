@@ -46,4 +46,4 @@ Ensure you have the following dependencies installed:
 1. Clone or download the dataset and script to your local machine.
 2. Run the script to load and process the dataset:
    ```bash
-   python malawi_analysis.py
+   python Malawi.ipynb
